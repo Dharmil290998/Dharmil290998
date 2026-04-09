@@ -19,6 +19,80 @@
   <img src="https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white" />
 </p>
 
+
+
+# 🌐 My Portfolio Website
+
+🚀 Explore my personal portfolio showcasing my work as a Data Engineer.
+
+🔗 **Live Website:**  
+👉 https://dharmil290998.github.io/Dharmil-portfolio/
+
+---
+
+## 📸 Portfolio Preview
+
+### 🛠️ Tools & Technologies
+![Tools](./assets/images/portfolio-tools.png)
+
+---
+
+### 🏆 Certifications
+![Certifications](./assets/images/portfolio-certs.png)
+
+---
+
+### 🎓 Academic Background
+![Education](./assets/images/portfolio-education.png)
+
+---
+
+### 💼 Projects
+![Projects](./assets/images/portfolio-projects1.png)
+
+![Projects](./assets/images/portfolio-projects2.png)
+
+---
+
+### 📬 Contact Section
+![Contact](./assets/images/portfolio-contact.png)
+
+---
+
+## 💡 About This Portfolio
+
+This portfolio highlights my expertise in:
+
+- Azure Data Engineering (ADF, Databricks, ADLS Gen2)
+- Real-time & batch data pipelines
+- Medallion Architecture (Bronze, Silver, Gold)
+- Delta Lake & Spark (PySpark)
+- Data modeling (Star Schema, SCD Type 1 & 2)
+- CI/CD and production-ready pipelines
+
+---
+
+## 🚀 Key Features
+
+- Clean and modern UI
+- Fully responsive design
+- Project-focused storytelling
+- Industry-relevant tech stack
+- Recruiter-friendly structure
+
+---
+
+## 📬 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/dharmil-patel-b2b225173  
+- 💻 GitHub: https://github.com/Dharmil290998  
+- 📧 Email: pateldharmil2026@gmail.com  
+
+---
+
+
+
+
 ---
 # 👋 Dharmil Patel
 
