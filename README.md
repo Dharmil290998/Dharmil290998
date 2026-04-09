@@ -169,7 +169,7 @@ G.H. Patel College of Engineering & Technology, India (2017 – 2021)
 
 - 💼 LinkedIn: https://linkedin.com/in/dharmil-patel-b2b225173  
 - 💻 GitHub: https://github.com/Dharmil290998  
-- 📧 Email: pateldharmil2026@gmail.com  
+- 📧 Email: dharmilkumarnileshpatel@gmail.com  
 
 ---
 
