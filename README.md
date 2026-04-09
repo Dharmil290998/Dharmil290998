@@ -149,10 +149,10 @@ Microsoft Fabric • Lakehouse • Warehouse • Dataflow Gen2 • T-SQL • Pow
 
 ## 🎓 Education
 
-🎓 **Postgraduate Certificate – Artificial Intelligence & Data Science**  
+**Postgraduate Certificate – Artificial Intelligence & Data Science**  
 Loyalist College, Toronto, Canada (2023 – 2025)
 
-🎓 **Bachelor of Engineering – Information Technology**  
+**Bachelor of Engineering – Information Technology**  
 G.H. Patel College of Engineering & Technology, India (2017 – 2021)
 
 ---
